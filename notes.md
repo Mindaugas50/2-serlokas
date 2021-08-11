@@ -2,7 +2,7 @@
 
 - [ ] pradine failu struktura
    - index.html
-   - gitignore.
+   - .gitignore
 - [ ] paviesinti projekta per Github Pages (gausim HTML)
 - [ ] README.md
     - skirta aprasyti kas, ka ir kodel daro
