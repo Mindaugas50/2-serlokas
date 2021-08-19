@@ -1,10 +1,10 @@
 # Procesas
 
-- [ ] pradine failu struktura
+- [x] pradine failu struktura
    - index.html
    - .gitignore
-- [ ] paviesinti projekta per Github Pages (gausim HTML)
-- [ ] README.md
+- [x] paviesinti projekta per Github Pages (gausim HTML)
+- [x] README.md
     - skirta aprasyti kas, ka ir kodel daro
     - iterpti nuoroda i daroma dizaina
     - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
