@@ -5,7 +5,7 @@
 
 # Serlokas
 
-_29 BIT group website project_
+_Mindaugo 29 BIT group student website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
