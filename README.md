@@ -9,7 +9,7 @@ _Mindaugo Lapkaus 29 BIT group student website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://github.com/Mindaugas50/2-Serlokas
+Site published at https://mindaugas50.github.io/2-serlokas/
 
 Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850246157619298324/404-Web-Page-Design-Examples-6.png)
 
